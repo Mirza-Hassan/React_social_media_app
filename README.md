@@ -8,6 +8,7 @@ Build a simple social media app using React. The app should allow users to creat
 # Table of Contents
 
 - [Pre Requisites](#pre-requisites)
+- [Presentation](#Presentation)
 - [Solutions for the Social Media App](#Solutions-for-the-Social-Media-App)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
@@ -21,6 +22,9 @@ Build a simple social media app using React. The app should allow users to creat
 - Frontend: React.js, Context API
 - Backend: Node.js
 - Testinig: React Testing Library
+
+# Presentation
+https://docs.google.com/presentation/d/1-XNDArnDgHuctROszJysLdIaPnTMyZbX9XJxmoUcw8M/view
 
 # Solutions for the Social Media App
 
