@@ -12,6 +12,7 @@ Build a simple social media app using React. The app should allow users to creat
 - [Solutions for the Social Media App](#Solutions-for-the-Social-Media-App)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
+- [Unit-Testing](#unit-testing)
 - [API Documentation](#api-documentation)
 - [Screenshot](#screenshot)
 - [App Flow](#app-flow)
@@ -55,6 +56,17 @@ Clone the repository
 3. In the `backend` directory, install dependencies: `npm install`
 
 4. Launch the backend application: `node server.js`
+
+# Unit Testing
+
+1. Install the required testing packages using npm:
+```
+npm install --save-dev jest @testing-library/react @testing-library/jest-dom react-router-dom
+```
+2. To run your tests, use Jest by running the following command:
+```
+npm test
+```
 
 # API Documentation
 
