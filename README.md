@@ -12,7 +12,7 @@ Build a simple social media app using React. The app should allow users to creat
 - [Solutions for the Social Media App](#Solutions-for-the-Social-Media-App)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
-- [Unit-Testing](#unit-testing)
+- [Unit Testing](#unit-testing)
 - [API Documentation](#api-documentation)
 - [Screenshot](#screenshot)
 - [App Flow](#app-flow)
@@ -67,6 +67,8 @@ npm install --save-dev jest @testing-library/react @testing-library/jest-dom rea
 ```
 npm test
 ```
+
+![test](https://github.com/Mirza-Hassan/React_social_media_app-New/assets/17096257/9571ce90-1e3a-4792-ba09-08493aa19c94)
 
 # API Documentation
 
