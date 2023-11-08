@@ -20,9 +20,9 @@ Build a simple social media app using React. The app should allow users to creat
 
 # Pre Requisites:
 
-- Frontend: React.js, Context API
-- Backend: Node.js
-- Testinig: React Testing Library
+- Frontend: React.js (react-router), Context API
+- Backend: Node.js, Express.js
+- Testinig: React Testing Library, Jest
 
 # Presentation
 https://docs.google.com/presentation/d/1-XNDArnDgHuctROszJysLdIaPnTMyZbX9XJxmoUcw8M/view
